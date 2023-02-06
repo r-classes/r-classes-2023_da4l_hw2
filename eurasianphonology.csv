@@ -1,0 +1,671 @@
+language,segment_type,n
+Abkhaz,consonant,126
+Abkhaz,vowel,6
+Adyghe,consonant,56
+Adyghe,vowel,3
+Akha,consonant,33
+Akha,vowel,27
+Alutor,consonant,18
+Alutor,vowel,9
+Amur Nivkh,consonant,28
+Amur Nivkh,vowel,6
+Andi,consonant,63
+Andi,vowel,9
+Aragonese,consonant,20
+Aragonese,vowel,7
+Arbëreshë Albanian,consonant,60
+Arbëreshë Albanian,vowel,13
+Assamese,consonant,22
+Assamese,vowel,14
+Assyrian Neo-Aramaic,consonant,31
+Assyrian Neo-Aramaic,vowel,11
+Asturian-Leonese-Cantabrian,consonant,39
+Asturian-Leonese-Cantabrian,vowel,14
+Atayal,consonant,18
+Atayal,vowel,6
+Avar,consonant,59
+Avar,vowel,9
+Axi Yi,consonant,36
+Axi Yi,vowel,20
+Baima,consonant,40
+Baima,vowel,30
+Bakhtiari,consonant,47
+Bakhtiari,vowel,29
+Balti,consonant,35
+Balti,vowel,5
+Bashkir,consonant,28
+Bashkir,vowel,11
+Basque,consonant,120
+Basque,vowel,47
+Bats,consonant,33
+Bats,vowel,18
+Bengali,consonant,58
+Bengali,vowel,40
+Besermyan,consonant,25
+Besermyan,vowel,8
+Besisi,consonant,30
+Besisi,vowel,28
+Betta Kurumba,consonant,22
+Betta Kurumba,vowel,15
+Bhojpuri,consonant,35
+Bhojpuri,vowel,16
+Bodo Gadaba,consonant,17
+Bodo Gadaba,vowel,19
+Bonan,consonant,25
+Bonan,vowel,11
+Bondo,consonant,21
+Bondo,vowel,21
+Brahui,consonant,52
+Brahui,vowel,34
+Breton,consonant,32
+Breton,vowel,34
+Bujhyal,consonant,31
+Bujhyal,vowel,16
+Bulgarian,consonant,37
+Bulgarian,vowel,6
+Burmese,consonant,33
+Burmese,vowel,25
+Burushaski,consonant,114
+Burushaski,vowel,41
+Byangsi,consonant,28
+Byangsi,vowel,8
+Campidanese Sardinian,consonant,44
+Campidanese Sardinian,vowel,14
+Catalan,consonant,75
+Catalan,vowel,29
+Cebuano,consonant,16
+Cebuano,vowel,3
+Central Alemannic,consonant,26
+Central Alemannic,vowel,29
+Central East Middle German,consonant,15
+Central East Middle German,vowel,20
+Central Khmer,consonant,17
+Central Khmer,vowel,29
+Central Kurdish,consonant,31
+Central Kurdish,vowel,8
+Central Pashto,consonant,49
+Central Pashto,vowel,12
+Chaldean Neo-Aramaic,consonant,34
+Chaldean Neo-Aramaic,vowel,9
+Chantyal,consonant,21
+Chantyal,vowel,27
+Chechen,consonant,156
+Chechen,vowel,109
+Chenchu,consonant,46
+Chenchu,vowel,28
+Chukchi,consonant,14
+Chukchi,vowel,6
+Czech,consonant,54
+Czech,vowel,26
+Daai Chin,consonant,24
+Daai Chin,vowel,32
+Dagur,consonant,45
+Dagur,vowel,12
+Dameli,consonant,32
+Dameli,vowel,8
+Danish,consonant,15
+Danish,vowel,11
+Dari,consonant,23
+Dari,vowel,12
+Darkhat,consonant,20
+Darkhat,vowel,19
+Darma,consonant,26
+Darma,vowel,10
+Dhimal,consonant,31
+Dhimal,vowel,22
+Dhivehi,consonant,27
+Dhivehi,vowel,12
+Digor Ossetian,consonant,36
+Digor Ossetian,vowel,6
+Dolgan,consonant,22
+Dolgan,vowel,20
+Domari,consonant,33
+Domari,vowel,12
+Dongxiang,consonant,28
+Dongxiang,vowel,6
+Dupaninan Agta,consonant,15
+Dupaninan Agta,vowel,6
+Dutch,consonant,18
+Dutch,vowel,25
+Dzongkha,consonant,32
+Dzongkha,vowel,30
+East Latvian,consonant,38
+East Latvian,vowel,17
+East Yugur,consonant,28
+East Yugur,vowel,14
+Eastern Armenian,consonant,31
+Eastern Armenian,vowel,6
+Eastern Balochi,consonant,35
+Eastern Balochi,vowel,19
+Eastern Khumi Chin,consonant,60
+Eastern Khumi Chin,vowel,37
+Eastern Mari,consonant,61
+Eastern Mari,vowel,27
+Eastern Panjabi,consonant,27
+Eastern Panjabi,vowel,20
+Eastern Tamang,consonant,56
+Eastern Tamang,vowel,48
+Eastern Yiddish,consonant,24
+Eastern Yiddish,vowel,13
+Elfdalian,consonant,37
+Elfdalian,vowel,50
+English,consonant,48
+English,vowel,36
+Ersu,consonant,52
+Ersu,vowel,10
+Erzya,consonant,29
+Erzya,vowel,6
+Estonian,consonant,17
+Estonian,vowel,9
+Even,consonant,18
+Even,vowel,18
+Evenki,consonant,17
+Evenki,vowel,8
+Faroese,consonant,16
+Faroese,vowel,20
+Finnish,consonant,15
+Finnish,vowel,8
+Forest Enets,consonant,25
+Forest Enets,vowel,8
+Forest Nenets,consonant,25
+Forest Nenets,vowel,13
+French,consonant,20
+French,vowel,14
+Friulian,consonant,25
+Friulian,vowel,14
+Gagauz,consonant,28
+Gagauz,vowel,18
+Galician,consonant,23
+Galician,vowel,7
+Gata',consonant,23
+Gata',vowel,17
+Gawar-Bati,consonant,35
+Gawar-Bati,vowel,6
+Gawri,consonant,37
+Gawri,vowel,27
+Georgian,consonant,28
+Georgian,vowel,5
+German,consonant,24
+German,vowel,16
+Gheg Albanian,consonant,27
+Gheg Albanian,vowel,16
+Gilaki,consonant,22
+Gilaki,vowel,9
+Godoberi,consonant,53
+Godoberi,vowel,13
+Gorum-Parenga,consonant,16
+Gorum-Parenga,vowel,10
+Grangali,consonant,27
+Grangali,vowel,7
+Gujarati,consonant,31
+Gujarati,vowel,27
+Gurung,consonant,29
+Gurung,vowel,28
+Hakka Chinese,consonant,23
+Hakka Chinese,vowel,22
+Hindi,consonant,34
+Hindi,vowel,21
+Hinuq,consonant,42
+Hinuq,vowel,20
+Hmong Njua,consonant,48
+Hmong Njua,vowel,20
+Ho,consonant,22
+Ho,vowel,13
+Humla,consonant,41
+Humla,vowel,30
+Hungarian,consonant,25
+Hungarian,vowel,14
+Icelandic,consonant,30
+Icelandic,vowel,15
+Iloko,consonant,19
+Iloko,vowel,6
+Indus Kohistani,consonant,40
+Indus Kohistani,vowel,10
+Ingush,consonant,52
+Ingush,vowel,17
+Irish,consonant,69
+Irish,vowel,32
+Iron Ossetian,consonant,374
+Iron Ossetian,vowel,70
+Ishkashimi,consonant,32
+Ishkashimi,vowel,7
+Italian,consonant,23
+Italian,vowel,7
+Jah Hut,consonant,22
+Jah Hut,vowel,30
+Japhug,consonant,50
+Japhug,vowel,8
+Jerriais,consonant,23
+Jerriais,vowel,32
+Jerung,consonant,30
+Jerung,vowel,14
+Jibbali,consonant,30
+Jibbali,vowel,8
+Juang,consonant,19
+Juang,vowel,18
+Judeo-Tat,consonant,23
+Judeo-Tat,vowel,8
+Kabardian,consonant,146
+Kabardian,vowel,23
+Kalasha,consonant,42
+Kalasha,vowel,15
+Kalkoti,consonant,29
+Kalkoti,vowel,14
+Kamas-Koibal,consonant,26
+Kamas-Koibal,vowel,11
+Kangjia,consonant,27
+Kangjia,vowel,9
+Kannada,consonant,34
+Kannada,vowel,10
+Kara-Kalpak,consonant,25
+Kara-Kalpak,vowel,14
+Karaim,consonant,29
+Karaim,vowel,8
+Karata,consonant,46
+Karata,vowel,10
+Karelian,consonant,16
+Karelian,vowel,14
+Kathmandu Valley Newari,consonant,24
+Kathmandu Valley Newari,vowel,12
+Kati,consonant,53
+Kati,vowel,8
+Kazym-Berezover-Suryskarer Khanty,consonant,58
+Kazym-Berezover-Suryskarer Khanty,vowel,29
+Ket,consonant,14
+Ket,vowel,15
+Khakas,consonant,23
+Khakas,vowel,16
+Khaling,consonant,27
+Khaling,vowel,21
+Khams Tibetan,consonant,40
+Khams Tibetan,vowel,23
+Kharia,consonant,34
+Kharia,vowel,5
+Khowar,consonant,39
+Khowar,vowel,5
+Khufi,consonant,29
+Khufi,vowel,11
+Kildin Saami,consonant,113
+Kildin Saami,vowel,15
+Kirghiz,consonant,21
+Kirghiz,vowel,16
+Koi,consonant,26
+Koi,vowel,9
+Komi-Permyak,consonant,30
+Komi-Permyak,vowel,7
+Komi-Zyrian,consonant,30
+Komi-Zyrian,vowel,7
+Korean,consonant,21
+Korean,vowel,17
+Korku,consonant,31
+Korku,vowel,10
+Koroshi,consonant,24
+Koroshi,vowel,10
+Ksingmul,consonant,20
+Ksingmul,vowel,18
+Kumyk,consonant,23
+Kumyk,vowel,8
+Kumzari,consonant,27
+Kumzari,vowel,8
+Kunigami,consonant,20
+Kunigami,vowel,5
+Kurtokha,consonant,31
+Kurtokha,vowel,16
+Kuvi,consonant,22
+Kuvi,vowel,15
+Kyerung,consonant,40
+Kyerung,vowel,29
+Ladino,consonant,20
+Ladino,vowel,5
+Lahu,consonant,24
+Lahu,vowel,29
+Lak,consonant,58
+Lak,vowel,10
+Lamjung-Melamchi Yolmo,consonant,36
+Lamjung-Melamchi Yolmo,vowel,12
+Lao,consonant,63
+Lao,vowel,61
+Laz,consonant,157
+Laz,vowel,27
+Leh Ladakhi,consonant,33
+Leh Ladakhi,vowel,5
+Lezgian,consonant,126
+Lezgian,vowel,17
+Lhomi,consonant,23
+Lhomi,vowel,22
+Ligurian,consonant,24
+Ligurian,vowel,21
+Lishanid Noshan,consonant,30
+Lishanid Noshan,vowel,6
+Lisu,consonant,31
+Lisu,vowel,17
+Lithuanian,consonant,161
+Lithuanian,vowel,57
+Liv,consonant,23
+Liv,vowel,8
+Lizu,consonant,50
+Lizu,vowel,10
+Longchuan Achang,consonant,35
+Longchuan Achang,vowel,27
+Lowa,consonant,35
+Lowa,vowel,10
+Lower Sorbian,consonant,35
+Lower Sorbian,vowel,7
+Lü,consonant,21
+Lü,vowel,24
+Macedonian,consonant,26
+Macedonian,vowel,6
+Magahi,consonant,34
+Magahi,vowel,16
+Maithili,consonant,26
+Maithili,vowel,25
+Malayalam,consonant,38
+Malayalam,vowel,15
+Maltese,consonant,24
+Maltese,vowel,11
+Manange,consonant,30
+Manange,vowel,15
+Mandarin Chinese,consonant,49
+Mandarin Chinese,vowel,50
+Mara Chin,consonant,28
+Mara Chin,vowel,16
+Mehri,consonant,31
+Mehri,vowel,14
+Min Dong Chinese,consonant,30
+Min Dong Chinese,vowel,55
+Mingrelian,consonant,92
+Mingrelian,vowel,16
+Mirandese,consonant,22
+Mirandese,vowel,27
+Miyako,consonant,14
+Miyako,vowel,5
+Modern Greek,consonant,24
+Modern Greek,vowel,5
+Modern Hebrew,consonant,20
+Modern Hebrew,vowel,5
+Moksha,consonant,68
+Moksha,vowel,13
+Moselle Franconian,consonant,26
+Moselle Franconian,vowel,22
+Mundari,consonant,23
+Mundari,vowel,5
+Munji,consonant,35
+Munji,vowel,9
+Myeik,consonant,27
+Myeik,vowel,24
+Najdi Arabic,consonant,25
+Najdi Arabic,vowel,8
+Nar Phu,consonant,25
+Nar Phu,vowel,28
+Narua,consonant,37
+Narua,vowel,14
+Naukan Yupik,consonant,18
+Naukan Yupik,vowel,4
+Nepali,consonant,29
+Nepali,vowel,15
+Nganasan,consonant,20
+Nganasan,vowel,10
+North Azerbaijani,consonant,24
+North Azerbaijani,vowel,18
+Northeastern Thai,consonant,101
+Northeastern Thai,vowel,89
+Northern Altai,consonant,18
+Northern Altai,vowel,16
+Northern Kurdish,consonant,30
+Northern Kurdish,vowel,8
+Northern Mansi,consonant,20
+Northern Mansi,vowel,11
+Northern Pashto,consonant,47
+Northern Pashto,vowel,22
+Northern Qiang,consonant,78
+Northern Qiang,vowel,60
+Northern Thai,consonant,21
+Northern Thai,vowel,18
+Northern Tosk Albanian,consonant,29
+Northern Tosk Albanian,vowel,9
+Northern Yukaghir,consonant,20
+Northern Yukaghir,vowel,19
+Northwestern Kolami,consonant,16
+Northwestern Kolami,vowel,10
+Norwegian,consonant,24
+Norwegian,vowel,16
+Nyaw,consonant,39
+Nyaw,vowel,34
+Occitan,consonant,27
+Occitan,vowel,32
+Odia,consonant,31
+Odia,vowel,11
+Oirad-Kalmyk-Darkhat,consonant,23
+Oirad-Kalmyk-Darkhat,vowel,16
+Paiwan,consonant,21
+Paiwan,vowel,4
+Palula,consonant,42
+Palula,vowel,10
+Pampanga,consonant,17
+Pampanga,vowel,5
+Phu Thai,consonant,41
+Phu Thai,vowel,28
+Pite Saami,consonant,45
+Pite Saami,vowel,9
+Pnar,consonant,24
+Pnar,vowel,15
+Polish,consonant,27
+Polish,vowel,8
+Portuguese,consonant,21
+Portuguese,vowel,20
+Pottangi Ollar Gadaba,consonant,19
+Pottangi Ollar Gadaba,vowel,20
+Poumei Naga,consonant,25
+Poumei Naga,vowel,14
+Purik-Sham-Nubra,consonant,31
+Purik-Sham-Nubra,vowel,6
+Rajbanshi,consonant,34
+Rajbanshi,vowel,9
+Rawang,consonant,20
+Rawang,vowel,17
+Romanian,consonant,40
+Romanian,vowel,11
+Romansh,consonant,27
+Romansh,vowel,19
+Rushani,consonant,29
+Rushani,vowel,10
+Russia Buriat,consonant,27
+Russia Buriat,vowel,18
+Russian,consonant,36
+Russian,vowel,6
+Rusyn,consonant,38
+Rusyn,vowel,7
+Saek,consonant,23
+Saek,vowel,27
+Sakha,consonant,20
+Sakha,vowel,20
+Salar,consonant,31
+Salar,vowel,12
+Sanglechi,consonant,31
+Sanglechi,vowel,11
+Santali,consonant,26
+Santali,vowel,31
+Sarikoli,consonant,29
+Sarikoli,vowel,9
+Sauria Paharia,consonant,24
+Sauria Paharia,vowel,10
+Scots,consonant,24
+Scots,vowel,13
+Scottish Gaelic,consonant,33
+Scottish Gaelic,vowel,49
+Selkup,consonant,16
+Selkup,vowel,25
+Serbian Standard,consonant,24
+Serbian Standard,vowel,10
+Shan,consonant,90
+Shan,vowel,62
+Shina,consonant,34
+Shina,vowel,19
+Shixing,consonant,50
+Shixing,vowel,41
+Shughni,consonant,29
+Shughni,vowel,10
+Shumashti,consonant,31
+Shumashti,vowel,8
+Sichuan Yi,consonant,53
+Sichuan Yi,vowel,24
+Sikkimese,consonant,37
+Sikkimese,vowel,31
+Sindhi,consonant,93
+Sindhi,vowel,27
+Skolt Saami,consonant,51
+Skolt Saami,vowel,24
+Slavomolisano,consonant,29
+Slavomolisano,vowel,18
+Slovak,consonant,30
+Slovak,vowel,15
+Slovenian,consonant,22
+Slovenian,vowel,15
+Solu-Khumbu Sherpa,consonant,68
+Solu-Khumbu Sherpa,vowel,35
+Sora,consonant,18
+Sora,vowel,8
+South Azerbaijani,consonant,24
+South Azerbaijani,vowel,9
+South Estonian,consonant,26
+South Estonian,vowel,18
+Southeast Pashayi,consonant,29
+Southeast Pashayi,vowel,13
+Southern Balochi,consonant,24
+Southern Balochi,vowel,8
+Southern Luri,consonant,21
+Southern Luri,vowel,11
+Southern Pashto,consonant,26
+Southern Pashto,vowel,7
+Southern Pumi,consonant,43
+Southern Pumi,vowel,20
+Southern Qiang,consonant,36
+Southern Qiang,vowel,30
+Southern Thai,consonant,63
+Southern Thai,vowel,56
+Southern Yukaghir,consonant,20
+Southern Yukaghir,vowel,16
+Southwest Pashayi,consonant,40
+Southwest Pashayi,vowel,12
+Spanish,consonant,37
+Spanish,vowel,33
+Spiti Bhoti,consonant,33
+Spiti Bhoti,vowel,10
+Standard Latvian,consonant,26
+Standard Latvian,vowel,18
+Sui,consonant,46
+Sui,vowel,24
+Svan,consonant,30
+Svan,vowel,17
+Swedish,consonant,18
+Swedish,vowel,17
+Tagalog,consonant,21
+Tagalog,vowel,5
+Tai Daeng,consonant,20
+Tai Daeng,vowel,20
+Tai Do-Mene-Yo,consonant,21
+Tai Do-Mene-Yo,vowel,19
+Tai Nüa,consonant,19
+Tai Nüa,vowel,16
+Taiga Sayan Turkic,consonant,28
+Taiga Sayan Turkic,vowel,39
+Tajik,consonant,23
+Tajik,vowel,6
+Takestani,consonant,23
+Takestani,vowel,14
+Tamil,consonant,24
+Tamil,vowel,12
+Tatar,consonant,29
+Tatar,vowel,14
+Tausug,consonant,20
+Tausug,vowel,3
+Telugu,consonant,35
+Telugu,vowel,12
+Temiar,consonant,19
+Temiar,vowel,30
+Ter Saami,consonant,51
+Ter Saami,vowel,18
+Thakali,consonant,19
+Thakali,vowel,14
+Tibetan,consonant,27
+Tibetan,vowel,25
+Tirahi,consonant,27
+Tirahi,vowel,11
+Torwali,consonant,45
+Torwali,vowel,15
+Tsez,consonant,36
+Tsez,vowel,6
+Tshangla,consonant,32
+Tshangla,vowel,7
+Tu,consonant,50
+Tu,vowel,16
+Tulu,consonant,21
+Tulu,vowel,14
+Tundra Nenets,consonant,77
+Tundra Nenets,vowel,26
+Turkish,consonant,23
+Turkish,vowel,15
+Turkmen,consonant,21
+Turkmen,vowel,16
+Tuvinian,consonant,28
+Tuvinian,vowel,24
+Udihe,consonant,19
+Udihe,vowel,21
+Udmurt,consonant,108
+Udmurt,vowel,34
+Uighur,consonant,28
+Uighur,vowel,15
+Ukrainian,consonant,35
+Ukrainian,vowel,6
+Upper Sorbian,consonant,33
+Upper Sorbian,vowel,9
+Urdu,consonant,37
+Urdu,vowel,21
+Ushojo,consonant,36
+Ushojo,vowel,17
+Varli,consonant,28
+Varli,vowel,18
+Veps,consonant,34
+Veps,vowel,10
+Vietnamese,consonant,21
+Vietnamese,vowel,22
+Vlax Romani,consonant,27
+Vlax Romani,vowel,7
+Votic,consonant,35
+Votic,vowel,20
+Wakhi,consonant,38
+Wakhi,vowel,12
+Walungge,consonant,32
+Walungge,vowel,16
+Waneci,consonant,23
+Waneci,vowel,7
+Wayu,consonant,55
+Wayu,vowel,49
+Welsh,consonant,29
+Welsh,vowel,19
+West Itelmen,consonant,27
+West Itelmen,vowel,5
+Western Balochi,consonant,95
+Western Balochi,vowel,49
+Western Farsi,consonant,23
+Western Farsi,vowel,6
+Western Frisian,consonant,19
+Western Frisian,vowel,32
+Western Mari,consonant,47
+Western Mari,vowel,20
+Western Muria,consonant,21
+Western Muria,vowel,5
+Wotapuri-Katarqalai,consonant,34
+Wotapuri-Katarqalai,vowel,20
+Wymysorys,consonant,20
+Wymysorys,vowel,15
+Yaben (Konda),consonant,23
+Yaben (Konda),vowel,10
+Yagnobi,consonant,27
+Yagnobi,vowel,9
+Yazgulyam,consonant,37
+Yazgulyam,vowel,8
+Yue Chinese,consonant,19
+Yue Chinese,vowel,28
+NA,consonant,1305
+NA,vowel,553
